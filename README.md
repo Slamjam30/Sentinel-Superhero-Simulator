@@ -1,2 +1,2 @@
-# Sentinel-Superhero-Simulator-Gemini-Hackathon
+# Sentinel-Superhero-Simulator
 Superhero Simulator Game for Gemini Hackathon
